@@ -1,0 +1,32 @@
+Universidad del Valle de Guatemala
+Andrés Quan Littow
+17652
+23/01/12018
+CC12018012301
+
+						Tarea de Juego
+
+
+Nombre
+	 Rainbow Six Siege
+
+Género
+	 Tactical Shooter
+
+MDA
+	Sensation, Fellowship, Challenge.
+
+Intención
+	La intención del juego es recrear, en su totalidad, las distintas situaciones que un operativo anti-terrorista
+	debe de enfrentar, en una pseudo-simulación dentro del juego.
+
+Balance
+	El juego mantiene un balance increible, ya que se basa en la tensión de la posición de otros jugadores 
+	basados en sí mismos. 
+
+Cambios
+	Yo cambiaria la abilidad de los defensores para usar ACOG.
+
+Por qué no
+	Porque quieren mantener los tales "Spawn Peeks" a base de los jugadores que no quieren entrar al edificio
+	para antagonizar. 
